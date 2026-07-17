@@ -432,11 +432,14 @@ The project contains both the frontend application and the backend conversion AP
 
 ## Author
 
+## Author
+
 **Bedirhan Elçik**
 
 Management Information Systems Student & Software Developer
 
-GitHub: `Bedirhanelcik`
+- GitHub: [Bedirhanelcik](https://github.com/Bedirhanelcik)
+- LinkedIn: [Bedirhan Elçik](https://www.linkedin.com/in/bedirhanelcik/)
 
 ---
 
