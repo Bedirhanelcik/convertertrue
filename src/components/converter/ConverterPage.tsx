@@ -105,14 +105,14 @@ export function ConverterPage({
 
     console.log("Sending request...");
 
-    const response = await fetch(
-      "http://localhost:3000/api/convert",
-      {
-        method: "POST",
-        body: formData,
-        signal: controller.signal,
-      }
-    );
+const response = await fetch(
+  `${import.meta.env.VITE_API_URL}/api/convert`,
+  {
+    method: "POST",
+    body: formData,
+    signal: controller.signal,
+  }
+);
 
     console.log(
       "Response received:",
