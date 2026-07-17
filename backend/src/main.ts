@@ -8,6 +8,7 @@ app.enableCors({
   origin: [
     "http://localhost:8080",
     "http://localhost:8081",
+    "https://convertertrue.vercel.app",
   ],
   methods: ["GET", "POST"],
   credentials: true,
