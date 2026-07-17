@@ -445,9 +445,9 @@ Management Information Systems Student & Software Developer
 
 ## License
 
-This project was developed for educational and portfolio purposes.
+Copyright © 2026 Bedirhan Elçik.
 
----
+This project is published for portfolio and demonstration purposes. All rights reserved.
 
 <p align="center">
   Built with React, TypeScript, TanStack Start and NestJS.
