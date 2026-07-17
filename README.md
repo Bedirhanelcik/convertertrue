@@ -28,7 +28,7 @@ ConverterTrue is a modern full-stack file conversion platform supporting image, 
 
 ## Screenshot
 
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/home2.png)
 
 ## Core Features
 
